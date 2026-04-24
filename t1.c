@@ -45,16 +45,6 @@ void equacaoPG(){
 	else if (a > 0 && b > 0)
 		printf("%.2lf * x + %.2lf ", a, b);
 
-	/*if (a < 0)
-		printf("- %.2lf * x ", -a);
-	else if (a > 0)
-		printf("%.2lf * x ", a);
-
-	if (b < 0)
-		printf("- %.2lf ", -b);
-	else if (b > 0)
-		printf("+ %.2lf ", b);*/
-
 	printf("= 0\n");
 
 	printf("\n Passos:\n");
